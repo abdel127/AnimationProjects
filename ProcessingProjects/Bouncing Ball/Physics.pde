@@ -3,7 +3,7 @@ void floorCollision() { //<>//
   // if under the floor...
   if (yposition + radius > floor) {   
     yposition = floor - radius;
-    yvelocity *= -BOUNCENESS; // reduce speed after bouncing
+    yvelocity *= -BOUNCENESS; // reduce speed after bouncing 
   }
 }
 

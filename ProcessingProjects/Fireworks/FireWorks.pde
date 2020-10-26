@@ -5,7 +5,7 @@ import peasy.org.apache.commons.math.geometry.*;
 import processing.sound.*;
 
 int ParticleCount = 0;
-ArrayList<ParticleSystem> systemList; // List to contain all future created particle systems.
+ArrayList<ParticleSystem> systemList; // List to contain all future created particle systems. 
 
 PeasyCam cam;
 SoundFile fireworkSFX;

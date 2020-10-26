@@ -2,7 +2,7 @@ import peasy.*;
 import peasy.org.apache.commons.math.*;
 import peasy.org.apache.commons.math.geometry.*;
 
-ParticleSystem ps; // The main particle system.
+ParticleSystem ps; // The main particle system. 
 
 int ParticleCount = 0;
 
